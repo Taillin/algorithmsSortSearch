@@ -1,4 +1,4 @@
-# Sorting & Search Algorithms
+  # Sorting & Search Algorithms
 
 > A Java implementation and performance comparison of classic sorting algorithms (Bubble Sort, Quick Sort) and Binary Search, with automated benchmarking across different array sizes.
 
